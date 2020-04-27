@@ -1,3 +1,3 @@
-### Just practicing git
+# Just practicing git
 ## Sub heading
-# sub sub heading
+### sub sub heading
